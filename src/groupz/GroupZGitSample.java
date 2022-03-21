@@ -10,13 +10,16 @@ public class GroupZGitSample {
 
 	public static void main(String[] args) {
 		String nameofSchool = "Pro-Tech Alliance";
+		String city = "Dallas";
 		String locationState = "Texas";
 		String country = "USA";
 		int zipCode = 12345;
 		
 		System.out.println("Arnold Ngamelue and Bet Sunrise and Classmates attend "+nameofSchool);
-		System.out.println("Sapherine and Nick are located in "+locationState+" "+country+
-				" "+zipCode);
+		System.out.println("Sapherine and Nick are located in "+city+" "+locationState+" "+zipCode
+				+" "+country);
+	
 	}
 
 }
+ 
