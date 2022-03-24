@@ -94,8 +94,8 @@ public class Gas_Price_Inflation_Project {
 	System.out.println("Price of gas = $" + price10);
 	
 	
-	System.out.println("The total price of gas in all ten States is =$" +(price1+price2+price3+price4+price5+price6+price7+price8+price9+price10));
-
+	System.out.println("The total price of gas in all ten States is =$" +(price1+price2+price3+price4+price5+price6+price7+price8+price9+price10+"\n"));
+	System.out.println("Thanks for reading please visit this sit for latest updates");
 	}
 
 }
