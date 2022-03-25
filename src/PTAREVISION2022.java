@@ -10,16 +10,18 @@ public class PTAREVISION2022 {
 		String NamePhone2 = "samsung";
 		String NamePhone3 = "nokia";
 		
-		double PriceOfPhone1 = 1200;
-		double PriceOfPhone2 = 1000;
+		double PriceOfPhone1 = 1200;//change the price to 20
+		double PriceOfPhone2 = 1000;//chnge th prie to 3000
 		double PriceOfPhone3 = 800;
+		
+		//ADD YOUR NAMES TO THIS PROJECT
 		
 		System.out.println (NamePhone1 + " Price is $" + PriceOfPhone1);
 		System.out.println (NamePhone2 + " Price is $" + PriceOfPhone2);
 		System.out.println (NamePhone3 + " Price is $" + PriceOfPhone3);
 		 
-		System.out.println ("Total Price Of All 3 Phones are " + ( PriceOfPhone1 + PriceOfPhone2 + PriceOfPhone3));
-
+		System.out.println ("Total Price Of All 3 Phones are " +
+		( PriceOfPhone1 * PriceOfPhone2 + PriceOfPhone3));
 	
 				
 	}
