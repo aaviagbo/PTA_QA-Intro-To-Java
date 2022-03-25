@@ -43,7 +43,7 @@ public class Assignment1 {
 				    String governorName6 = "Doug Burgum";
 				    double  GasPrice6 = 3.88;
 				    
-				    String State7 = "New York";
+				    String State7 = "New York;
 				    String governorName7 = "Kathy Hochul";
 				    double  GasPrice7 = 4.37;
 				    
