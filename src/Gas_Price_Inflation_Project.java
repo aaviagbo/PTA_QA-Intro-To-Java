@@ -20,7 +20,7 @@ public class Gas_Price_Inflation_Project {
         String Govname4 ="PhilMurphy";
         Double price4 = 2.5;
         
-        int state5 ="Califonia";
+        String state5 ="Califonia";
         String Govname5 ="RonDesantis";
         Double price5 =5.99;
         
@@ -72,7 +72,7 @@ public class Gas_Price_Inflation_Project {
 	
 	
 	System.out.println("Name of State = " + state6);
-	System.out.println("The name of gov. is " + G0vname6);
+	System.out.println("The name of gov. is " + Govname6);
 	System.out.println("Price of gas = $" + price6);
 	
 
@@ -89,7 +89,7 @@ public class Gas_Price_Inflation_Project {
 	System.out.println("Price of gas = $" + price9);
 	
 	
-	System.out.printlin("Name of State = " + state10);
+	System.out.println("Name of State = " + state10);
 	System.out.println("The name of gov. is " + Govname10);
 	System.out.println("Price of gas = $" + price10);
 	
