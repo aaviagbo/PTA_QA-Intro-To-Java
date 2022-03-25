@@ -59,34 +59,34 @@ public class Gas_Price_Inflation_Project {
 	
     System.out.println("Name of State = " + state3);
 	System.out.println("The name of gov. is " + Govname3);
-	System.out.println("Price of gas = $" + price3);
+	System.out.println("Price of gas = $" + price3+"\n");
 	
 	
 	System.out.println("Name of State = " + state4);
 	System.out.println("The name of gov. is " + Govname3);
-	System.out.println("Price of gas = $" + price4);
+	System.out.println("Price of gas = $" + price4+"\n");
 	
 	System.out.println("Name of State = " + state5);
 	System.out.println("The name of gov. is " + Govname5);
-	System.out.println("Price of gas = $" + price5);
+	System.out.println("Price of gas = $" + price5+"\n");
 	
 	
 	System.out.println("Name of State = " + state6);
 	System.out.println("The name of gov. is " + Govname6);
-	System.out.println("Price of gas = $" + price6);
+	System.out.println("Price of gas = $" + price6+"\n");
 	
 
 	System.out.println("Name of State = " + state7);
 	System.out.println("The name of gov. is " + Govname7);
-	System.out.println("Price of gas = $" + price7);
+	System.out.println("Price of gas = $" + price7+"\n");
 	
 	System.out.println("Name of State = " + state8);
 	System.out.println("The name of gov. is " + Govname8);
-	System.out.println("Price of gas = $" + price8);
+	System.out.println("Price of gas = $" + price8+"\n");
 	
 	System.out.println("Name of State = " + state9);
 	System.out.println("The name of gov. is " + Govname9);
-	System.out.println("Price of gas = $" + price9);
+	System.out.println("Price of gas = $" + price9+"\n");
 	
 	
 	System.out.println("Name of State = " + state10);
