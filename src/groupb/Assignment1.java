@@ -1,5 +1,5 @@
 /**
- * Names: William, Sapherine, Niki, Nzele
+ * Names: "William, Sapherine, Niki, Nzele
  * 
  * Date: 03/20/2022
  * 
@@ -33,10 +33,10 @@ public class Assignment1 {
 				    
 				    String State4 = "Utah";
 				    String governorName4 = "Spency Cox";
-				    double  GasPrice4 = "4.34";
+				    double  GasPrice4 = 4.34;
 				    
 				    String State5 = "Ohio";
-				    String governorName5 = "Mike Dewine";
+				    String governorName5 = Mike Dewine";
 				    double GasPrice5 = 4.04;
 				    
 				    String State6 = "North Dakota";
@@ -53,7 +53,7 @@ public class Assignment1 {
 
 
 	
-				  System.out.println(State1+", "+ governorName1 +, gas price is $"+ GasPrice1+"\n");
+				  System.out.println(State1+", "+ governorName1 +", gas price is $"+ GasPrice1+"\n");
 				  System.out.println(State2+", "+ governorName2 +", gas price is $"+ GasPrice2+"\n");
 				  System.out.println(State3+", "+ governorName3 +", gas price is $"+ GasPrice3+"\n");
 				  System.out.println(State4+", "+ governorName4 +", gas price is $"+ GasPrice4+"\n");
