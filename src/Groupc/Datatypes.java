@@ -1,4 +1,5 @@
-/**
+package Groupc;
+/***
  * GROUP C PARTICIPANTS
  * 
  * 1) LAVOISIER BLERIOT
